@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(147, 197, 123); } .title{
+    color: #272525;
+    width: 600px;
+    margin: 10px auto;
+    padding: 8px;
+    text-align: center;
+}
+.title img{
+    width: 80px;
+}
+#start{
+    color: #272525;
+    background-color: #fff;
+    width: 300px;
+    margin: 10px auto;
+    padding: 8px;
+    text-align: center;
+    font-size: 30px;
+}
+.quetionTitle{
+    background-color: #fff;
+    width: 300px;
+    margin: 10px auto;
+    text-align: center;
+}
+.answerArea{
+    background-color: #d63737;
+    width: 300px;
+    margin: 10px auto;
+    text-align: center;
+
+}
+#answer {
+    margin: 10px auto;
+    padding: 8px;
+    text-align: center;
+    font-size: 30px;
+}
+#finishImage{
+    width: 100px;
+    margin: 10px auto;
+}
+#human{
+    margin: 10px auto;
+    padding: 8px;
+    text-align: center;
+    font-size: 30px;
+}
